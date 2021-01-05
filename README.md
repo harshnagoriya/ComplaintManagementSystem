@@ -39,4 +39,4 @@ What things you need to install the software and how to install them
 ## Authors
 
 * *Harsh Nagoriya* - [GitHub](https://github.com/harshnagoriya) - [Personal Website](http://www.harshnagoriya.ml/)
-* *Shilpi Ghosal* - [Email](mailto: 07shilpighosal@gmail.com)
+* *Shilpi Ghosal* - [Email](mailto:07shilpighosal@gmail.com)
