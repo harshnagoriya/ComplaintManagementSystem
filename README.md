@@ -33,10 +33,3 @@ What things you need to install the software and how to install them
 * JavaScript
 * Jquery
 
-
-
-
-## Authors
-
-* *Harsh Nagoriya* - [GitHub](https://github.com/harshnagoriya) - [Personal Website](http://www.harshnagoriya.ml/)
-* *Shilpi Ghosal* - [Email](mailto:07shilpighosal@gmail.com)
