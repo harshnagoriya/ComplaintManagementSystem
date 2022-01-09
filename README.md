@@ -35,3 +35,9 @@ What things you need to install the software and how to install them
 * JavaScript
 * Jquery
 
+## Developers
+
+* Harsh Nagoriya 
+* Shilpi Ghoshal
+
+
