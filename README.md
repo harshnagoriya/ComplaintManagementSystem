@@ -37,7 +37,7 @@ What things you need to install the software and how to install them
 
 ## Developers
 
-* Harsh Nagoriya 
-* Shilpi Ghosal
+* [Harsh Nagoriya](https://www.linkedin.com/in/harshnagoriya/)
+* [Shilpi Ghosal](https://www.linkedin.com/in/shilpi-ghosal/)
 
 
